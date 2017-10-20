@@ -16,3 +16,5 @@ branch feature step forward
 Creating a new branch is quick and simple
 
 Creating a new branch www2
+
+this is a bugb1 branch, for bug fixxing.
